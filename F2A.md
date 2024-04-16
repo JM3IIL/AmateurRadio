@@ -29,6 +29,9 @@ https://jl1kra.sakura.ne.jp/chocbook2023spring-J.pdf
 ウィーンブリッジ回路で正弦波発振回路をつくろう。
 https://jitaku-yasai.com/home-made/wien-bridge/
 
+ｳｨｰﾝﾌﾞﾘｯｼﾞ正弦波発振器　動作説明
+http://www.piclist.com/images/www/hobby_elec/ckt18_2.htm
+
 ひずみが少ない正弦波発振回路
 https://cc.cqpub.co.jp/system/contents/2774/
 
@@ -37,6 +40,9 @@ https://www.cqpub.co.jp/toragi/TRBN/trsample/2003/tr0307/0307an19.pdf
 
 3-5-1 低周波発振器（VLF/LF/MF 3 MHz未満）
 https://www.jemima.or.jp/tech/3-05-01.html
+
+状態変数形RC発振器
+https://yoshikiyo.com/2022/10/10/20221010/
 
 オペアンプの種類と使い方
 https://www.marutsu.co.jp/pc/static/large_order/1104opamp
