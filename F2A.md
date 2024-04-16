@@ -38,6 +38,9 @@ https://www.cqpub.co.jp/toragi/TRBN/trsample/2003/tr0307/0307an19.pdf
 3-5-1 低周波発振器（VLF/LF/MF 3 MHz未満）
 https://www.jemima.or.jp/tech/3-05-01.html
 
+オペアンプの種類と使い方
+https://www.marutsu.co.jp/pc/static/large_order/1104opamp
+
 DitDah Oscillator
 https://ditdah.jp/ditdah-oscillator/
 
