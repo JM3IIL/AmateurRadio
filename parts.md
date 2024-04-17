@@ -1,3 +1,13 @@
+
+
+秋月
+https://akizukidenshi.com/catalog/default.aspx
+
+共立
+https://eleshop.jp/shop/
+
+
+
 DC-DCスイッチング±12V
 https://strawberry-linux.com/catalog/items?code=12071
 
