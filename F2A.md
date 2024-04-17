@@ -44,8 +44,25 @@ https://www.jemima.or.jp/tech/3-05-01.html
 状態変数形RC発振器
 https://yoshikiyo.com/2022/10/10/20221010/
 
+状態変数型の発振器と18bit ADC
+http://nahitafu.cocolog-nifty.com/nahitafu/2014/02/18bit-adc-3854.html
+
+https://toragi.cqpub.co.jp/Portals/0/trcalc/trcalc.html?20
+
 オペアンプの種類と使い方
 https://www.marutsu.co.jp/pc/static/large_order/1104opamp
+
+乾電池1本 1.5Ｖで動作する低周波発信器の作り方
+https://www.ddd-daishin.co.jp/ddd/49-af-osc/index.htm
+
+高速リアルタイム スペクトラムアナライザ （ASIO、WASAPI対応）WaveSpectra
+http://web.archive.org/web/20171105052121/http://efu.jp.net/
+
+声信号解析ソフト（AudacityとWaveSpectraなど）
+http://marchan.e5.valueserver.jp/cabin/comp/jbox/arc300/doc3013.html
+
+WaveSpectraを用いた歪率の測定
+http://neax.sakura.ne.jp/tube/note/thd/thd71
 
 DitDah Oscillator
 https://ditdah.jp/ditdah-oscillator/
