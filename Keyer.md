@@ -4,3 +4,10 @@
 
 telegraph key
 Electronic keyers and paddle keys
+
+
+# キーヤー自作
+https://ameblo.jp/hajimeteno-pic/entry-12647461550.html
+
+# マイク自作
+https://qiita.com/pbjpkas/items/fb4edcf5764b2e78b589
