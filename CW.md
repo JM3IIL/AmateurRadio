@@ -11,3 +11,13 @@ https://www.fbnews.jp/201911/electronics/
 
 [F2A](./F2A.md "FM CW")
 [Keyer](./Keyer.md "Telegraph Key")
+
+
+## 練習
+https://lcwo.net/
+https://www.rufzxp.net/
+https://web.ji0vwl.net/cw_freak_net.html
+
+
+
+
