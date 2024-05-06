@@ -19,3 +19,4 @@ https://www.amazon.co.jp/s?k=pk-cq080601kb
 # マイク自作
 https://qiita.com/pbjpkas/items/fb4edcf5764b2e78b589
 
+https://www.amazon.com/PUTIKEEG-Morse-Code-Alphabet-Vintage-Style/dp/B0B6P6VHPY/
