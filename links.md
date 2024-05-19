@@ -5,6 +5,7 @@ https://lcwo.net/
 
 ## コールサインデータベース
 https://www.qrz.com/
+https://hamcall.net/call
 
 ## 技術資料
 ROHM Tech Web 無線通信基礎編
