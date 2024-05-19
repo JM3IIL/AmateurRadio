@@ -3,6 +3,9 @@
 Learn CW Online (LCWO) DJ5CW
 https://lcwo.net/
 
+## コールサインデータベース
+https://www.qrz.com/
+
 ## 技術資料
 ROHM Tech Web 無線通信基礎編
 https://techweb.rohm.co.jp/product/wireless/wireless-communication/
