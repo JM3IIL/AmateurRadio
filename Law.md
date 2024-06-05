@@ -13,3 +13,5 @@ https://www.mofa.go.jp/mofaj/gaiko/treaty/pdfs/B-S39(1)-0179_1.pdf
 
 ## 国内
 
+電波法
+https://elaws.e-gov.go.jp/document?lawid=325AC0000000131
