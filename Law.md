@@ -23,3 +23,9 @@ https://elaws.e-gov.go.jp/document?lawid=325AC0000000131
 
 不要発射=帯域外発射+スプリアス発射
 スプリアス発射=高調波発射+低調波発射+寄生発射+相互変調積
+
+無線局運用規則
+https://elaws.e-gov.go.jp/document?lawid=325M50080000017
+
+第十四条2項
+「QRT」、「QUM」、「QUZ」、「DDD~~~」、「SOS~~~」、「TTT」及び「XXX」は電話での使用禁止
