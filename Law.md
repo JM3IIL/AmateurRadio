@@ -6,6 +6,7 @@
 https://www.soumu.go.jp/main_content/000171443.pdf 
 
 無線通信規則
+(Radio Regulations: RR)
 http://handle.itu.int/11.1002/pub/814b0c44-en
 
 国際電気通信連合条約
