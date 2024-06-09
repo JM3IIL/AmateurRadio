@@ -11,6 +11,12 @@ http://handle.itu.int/11.1002/pub/814b0c44-en
 国際電気通信連合条約
 https://www.mofa.go.jp/mofaj/gaiko/treaty/pdfs/B-S39(1)-0179_1.pdf
 
+
+条約、協約、協定、議定書、憲章
+
+
+
+
 ## 国内
 
 電波法
