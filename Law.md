@@ -39,6 +39,10 @@ https://elaws.e-gov.go.jp/document?lawid=325AC0000000131
 https://elaws.e-gov.go.jp/document?lawid=413CO0000000245
 
 ### 規則
+電波法施行規則
+(昭和25年電波監理委員会規則第14号)
+https://www.tele.soumu.go.jp/horei/law_honbun/72002000.html
+
 無線局運用規則
 (昭和25年電波監理委員会規則第17号)
 (最近改正:令和5年総務省令第94号)
