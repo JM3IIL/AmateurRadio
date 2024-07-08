@@ -51,3 +51,8 @@ QSA
 3　かなり強いです。
 4　強いです。
 5　非常に強いです。
+
+-----
+### 空電
+https://en.wikipedia.org/wiki/Radio_atmospheric_signal
+https://kotobank.jp/word/%E7%A9%BA%E9%9B%BB-54915
