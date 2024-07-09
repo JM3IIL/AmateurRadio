@@ -59,6 +59,8 @@ https://elaws.e-gov.go.jp/document?lawid=325M50080000017
 
 別表第四号　無線電話通信の略語（第１４条関係）
 
-
+無線設備規則
+(昭和25年電波監理委員会規則第28号)
+https://elaws.e-gov.go.jp/document?lawid=325M50080000018
 
 
