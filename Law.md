@@ -64,3 +64,7 @@ https://elaws.e-gov.go.jp/document?lawid=325M50080000017
 https://elaws.e-gov.go.jp/document?lawid=325M50080000018
 
 
+無線従事者規則
+(平成2年郵政省令第19号)
+https://elaws.e-gov.go.jp/document?lawid=402M50001000018
+
