@@ -10,6 +10,10 @@ https://scrapbox.io/ji1jdi/F2A%E5%A4%89%E6%9B%B4%E7%94%B3%E8%AB%8B%EF%BC%88%E5%B
 社団局の「F2A」申請
 https://stroll.ni-3.net/Entry/3/
 
+F2A の免許手続きが簡略化されました
+https://www.jh1lhv.tokyo/entry/2023/10/01/194536
+
+
 ## 600Hz発振器
 楽しいエレクトロニクス工作　第78回　F2A発振器
 https://www.fbnews.jp/201911/electronics/
@@ -66,5 +70,20 @@ http://neax.sakura.ne.jp/tube/note/thd/thd71
 
 DitDah Oscillator
 https://ditdah.jp/ditdah-oscillator/
+
+ＦＭでモールス送出用Ｆ２Ａ　ＣＷインターフェースの製作
+http://jn2amd.html.xdomain.jp/f2_v4.htm
+
+
+## 他
+準備できたど～　F2A　装置　（FM音声によるCW通信）
+https://blog.goo.ne.jp/goodblessyou/e/c6c255eccfc5ea1c07bd1c4287370337
+
+FMモードでCWを手軽に楽しむ、F2Aセミブレークインアダプタ「FDBM01」の製作・頒布に関心集まる
+https://www.hamlife.jp/2022/05/04/jh4vaj_fdbm01/
+
+ハンディ機(FMモード)でCW!!
+F2A (FM-CW)　で遊ぼう!!
+https://jq1yda.org/topics/wires/f2a/index.html
 
 
