@@ -3,6 +3,9 @@
 1200ＭＨz (25cm)
 https://t1000zawa.hatenadiary.jp/entry/2022/02/26/233000
 
+ロングワイヤーアンテナの性能向上術！
+https://ja3cgz.com/longwire-antenna/
+
 ### ハンディアンテナ
 https://www.diamond-ant.co.jp/product/ama/handy/handy_3srh.html
 
