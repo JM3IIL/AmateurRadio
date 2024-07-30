@@ -6,7 +6,11 @@ https://akizukidenshi.com/catalog/default.aspx
 共立
 https://eleshop.jp/shop/
 
+大進無線
+https://www.ddd-daishin.co.jp/e-kousaku/kit.htm
 
+aitendo
+https://www.aitendo.com/
 
 DC-DCスイッチング±12V
 https://strawberry-linux.com/catalog/items?code=12071
