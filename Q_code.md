@@ -6,6 +6,8 @@ https://ja.wikipedia.org/wiki/Q%E7%AC%A6%E5%8F%B7
 
 https://www.jarl.org/Japanese/A_Shiryo/A-C_Morse/morse.htm
 
+http://blog.livedoor.jp/george73/archives/612287.html
+
 -----
 QRK
 こちらの信号(又は……(名称又は呼出符号)の信号)の明瞭度は，どうですか。
