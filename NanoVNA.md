@@ -46,5 +46,8 @@ http://kicksob-brothers.cocolog-nifty.com/jh6jrn/2021/06/post-10183d.html
 NanoVNA-H4を使ってみた（アンテナアナライザ編）2020-07-26
 https://blog.goo.ne.jp/mocas_lab/e/7f408230ae7126282b083f7b0bffb956
 
+Nano VNA-F V2 使えます
+https://aug417.hatenablog.com/entry/2022/02/08/134712
+
 
 
