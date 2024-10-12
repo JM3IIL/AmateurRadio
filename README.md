@@ -11,3 +11,6 @@ JM3IIL
 通信術
 　電話
 　電信(モールス信号)
+
+総務省 電波利用 電子申請・届出システム Lite
+https://www.denpa.soumu.go.jp/public2/
