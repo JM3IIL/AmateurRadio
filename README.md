@@ -14,3 +14,6 @@ JM3IIL
 
 総務省 電波利用 電子申請・届出システム Lite
 https://www.denpa.soumu.go.jp/public2/
+
+無線局等情報検索
+https://www.tele.soumu.go.jp/musen/
