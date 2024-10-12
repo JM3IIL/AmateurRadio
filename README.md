@@ -17,3 +17,5 @@ https://www.denpa.soumu.go.jp/public2/
 
 無線局等情報検索
 https://www.tele.soumu.go.jp/musen/
+https://www.tele.soumu.go.jp/musen/SearchServlet?SC=1&pageID=3&SelectID=1&CONFIRM=0&SelectOW=01&MA=JM3IIL
+
