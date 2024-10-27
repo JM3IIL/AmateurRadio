@@ -39,5 +39,5 @@ https://eleshop.jp/shop/g/gB84131/
 NE555 ¥20
 https://akizukidenshi.com/catalog/g/g114051/
 
-
-
+ダイオード 1N914 ¥11
+https://www.marutsu.co.jp/pc/i/2226909/
