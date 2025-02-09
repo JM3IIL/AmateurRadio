@@ -23,6 +23,7 @@ https://www.aetjapan.com/software.php?Antenna=Antenna_Magus
 
 
 ## 衛星受信用アンテナ
+<A name="satellite_receiving_antenna" id="satellite_receiving_antenna" />
 安価で効率の良い衛星用アンテナ その1: 無指向性アンテナ 2022-05
 https://www.fbnews.jp/202205/workbench/
 
