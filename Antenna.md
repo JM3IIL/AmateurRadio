@@ -21,3 +21,11 @@ http://je3hht.g1.xrea.com/mmana/index.html
 Antenna Magus
 https://www.aetjapan.com/software.php?Antenna=Antenna_Magus
 
+
+## 衛星受信用アンテナ
+安価で効率の良い衛星用アンテナ その1: 無指向性アンテナ 2022-05
+https://www.fbnews.jp/202205/workbench/
+
+安価で効率の良い衛星用アンテナ その2: 指向性アンテナ 2022-06
+https://www.fbnews.jp/202206/workbench/
+
