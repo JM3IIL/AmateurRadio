@@ -58,3 +58,16 @@ QSA
 ### 空電
 https://en.wikipedia.org/wiki/Radio_atmospheric_signal
 https://kotobank.jp/word/%E7%A9%BA%E9%9B%BB-54915
+
+
+QSU
+こちらはこの周波数で送信または応答しましょうか
+QSW
+そちらはこの周波数で送信してくれませんか
+QSY
+こちらは他の周波数に変更して伝送しましょうか（周波数を変えること）
+
+
+
+
+
