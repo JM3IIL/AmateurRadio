@@ -35,6 +35,8 @@ https://akizukidenshi.com/catalog/g/g106257/
 https://akizukidenshi.com/catalog/g/g112524/
 モノラルミニジャック ¥84
 https://eleshop.jp/shop/g/gB84131/
+四極ミニジャック
+https://akizukidenshi.com/catalog/g/g106070/
 
 NE555 ¥20
 https://akizukidenshi.com/catalog/g/g114051/
