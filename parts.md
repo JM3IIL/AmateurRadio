@@ -35,7 +35,8 @@ https://akizukidenshi.com/catalog/g/g106257/
 https://akizukidenshi.com/catalog/g/g112524/
 モノラルミニジャック ¥84
 https://eleshop.jp/shop/g/gB84131/
-四極ミニジャック
+
+3.5mm4極ミニジャック 基板取付用 MJ-4PP-9 ¥50-
 https://akizukidenshi.com/catalog/g/g106070/
 
 NE555 ¥20
