@@ -8,6 +8,7 @@ https://www.jarl.org/Japanese/A_Shiryo/A-C_Morse/morse.htm
 
 http://blog.livedoor.jp/george73/archives/612287.html
 
+## rst
 -----
 QRK
 こちらの信号(又は……(名称又は呼出符号)の信号)の明瞭度は，どうですか。
@@ -54,12 +55,16 @@ QSA
 4　強いです。
 5　非常に強いです。
 
+##
+QRL?	そちらは通信中ですか。
+QRL	通信中です。妨害しないでください
+
 -----
 ### 空電
 https://en.wikipedia.org/wiki/Radio_atmospheric_signal
 https://kotobank.jp/word/%E7%A9%BA%E9%9B%BB-54915
 
-
+## 周波数変更
 QSU
 こちらはこの周波数で送信または応答しましょうか
 QSW
@@ -67,8 +72,13 @@ QSW
 QSY
 こちらは他の周波数に変更して伝送しましょうか（周波数を変えること）
 
+## 増減
+QRO?	こちらは送信機の電力を増加しましょうか。
+QRP?	こちらは送信機の電力を減少しましょうか。
+QRQ?	こちらはもっと早く送信しましょうか。
+QRS?	こちらはもっと遅く送信しましょうか。
 
-
+# その他
 送信するものが無い＋どうぞ　　　　　　　　ＮＩＬ　Ｋ　　　－・　・・　・－・・　　－・－
 　　　　　　　　　　　　　　　　　　　　　　　
 送信終了　　　　　　　　　　　　　　　　　ＡＲ　　　　　　・－・－・
