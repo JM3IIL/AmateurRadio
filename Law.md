@@ -1,5 +1,8 @@
 # 法
 
+
+[参照](https://github.com/JM3IIL/RadioEngineering/blob/main/RadioLaw.md)
+
 ## 国際
 
 ### 国際電気通信連合憲章(平成七年一月十八日条約第二号)
