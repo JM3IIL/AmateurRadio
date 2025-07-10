@@ -16,6 +16,8 @@ https://meyon.gonna.jp/study/ham-radio/11157/
 NanoVNA-H4、アンテナアナライザ設定ファイルと使い方 2023/09/04
 https://www.jh4vaj.com/archives/40561
 
+https://www.jh4vaj.com/archives/34649
+
 NanoVNAで遊ぶ 2023/03/31
 http://ja6hic.g2.xrea.com/soku/nanovna/nanovna.html
 
