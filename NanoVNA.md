@@ -22,6 +22,7 @@ http://ja6hic.g2.xrea.com/soku/nanovna/nanovna.html
 DEEPELEC NanoVNA-F ハンドヘルド ベクトル ネットワーク アナライザ 取扱説明書2022 年 9 月 6 日
 https://ja.manuals.plus/deepelec/nanovna-f-handheld-vector-network-analyzer-manual
 
+https://www.cqmart.com/cat/nano-vna-manu.pdf
 
 
 # 実売
