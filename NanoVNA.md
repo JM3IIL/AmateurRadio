@@ -38,6 +38,9 @@ Amazon NanoVNA-H4 V4.3 (10kHz-1.5GHz) ￥9,199-
 https://www.amazon.co.jp/dp/B0CQ7F69P2/
 
 
+# Sパラメーター
+https://zawa2.com/ZZsim/doc_sparams.html
+
 
 # その他
 NanoVNAで測定　その２バランを測定する　2021年5月19日 (水)
