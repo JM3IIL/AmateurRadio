@@ -31,6 +31,9 @@ https://www.cqmart.com/cat/nano-vna-manu.pdf
 秋月 NANOVNA-F V2 VNA 3G 発売日 2023/01/19 ￥23,800-
 https://akizukidenshi.com/catalog/g/g117632/
 
+Amazon Lit3VNA64 (50kHz-6GHz) ￥30,999-
+https://www.amazon.co.jp/dp/B0CWKD776K
+
 Amazon NanoVNA-F V2 (50kHz-3GHz) ￥14,550-
 https://www.amazon.co.jp/dp/B0CQR6JNPL/
 
