@@ -20,6 +20,7 @@ JM3IIL
 - [NE555](./NE555.md)
 - [NanoVNA](./NanoVNA.md)
 - [オシロスコープ](./Oscilloscope.md)
+- [シンセサイザ](./PLL.md)
 - [POTA](./POTA.md)
 - [Q符号](./Q_code.md)
 - [試験](./QualificationLinks.md)
