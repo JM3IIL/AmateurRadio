@@ -1,14 +1,12 @@
 # NanoVNA
 
-
+## NanoVNA-H
 
 NanoVNA-H4 使い方
 
 NanoVNA User Guide (日本語)
 https://cho45.github.io/NanoVNA-manual/
 
-NanoVNA V2について (日本語)
-https://nanorfe.com/jp/nanovna-v2.html
 
 ネットワークアナライザ NanoVNA-H4 を使ってみる 2024.01.03
 https://meyon.gonna.jp/study/ham-radio/11157/
@@ -21,10 +19,20 @@ https://www.jh4vaj.com/archives/34649
 NanoVNAで遊ぶ 2023/03/31
 http://ja6hic.g2.xrea.com/soku/nanovna/nanovna.html
 
+
+https://www.cqmart.com/cat/nano-vna-manu.pdf
+
+
+## NanoVNA-V2
+NanoVNA V2について (日本語)
+https://nanorfe.com/jp/nanovna-v2.html
+
 DEEPELEC NanoVNA-F ハンドヘルド ベクトル ネットワーク アナライザ 取扱説明書2022 年 9 月 6 日
 https://ja.manuals.plus/deepelec/nanovna-f-handheld-vector-network-analyzer-manual
 
-https://www.cqmart.com/cat/nano-vna-manu.pdf
+Nano VNA-F V2 使えます
+https://aug417.hatenablog.com/entry/2022/02/08/134712
+
 
 
 # 実売
@@ -55,8 +63,6 @@ http://kicksob-brothers.cocolog-nifty.com/jh6jrn/2021/06/post-10183d.html
 NanoVNA-H4を使ってみた（アンテナアナライザ編）2020-07-26
 https://blog.goo.ne.jp/mocas_lab/e/7f408230ae7126282b083f7b0bffb956
 
-Nano VNA-F V2 使えます
-https://aug417.hatenablog.com/entry/2022/02/08/134712
 
 
 
