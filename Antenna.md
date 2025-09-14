@@ -14,6 +14,9 @@ https://www.diamond-ant.co.jp/product/ama/handy/handy_3srh.html
 筆者： Bill Schweber氏2022-05-26
 https://www.digikey.jp/ja/blog/use-traps-to-enable-multiband-operation-with-dipole-antennas
 
+## ダブルバズーカアンテナ
+https://ja3cgz.com/double-bazooka/
+
 ## アンテナ設計ツール
 MMANA
 http://je3hht.g1.xrea.com/mmana/index.html
