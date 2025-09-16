@@ -1,4 +1,9 @@
 # Q符号
+「無線局運用規則」(昭和二十五年電波監理委員会規則第十七号)
+別表第二号　無線電信通信の略符号（第１３条関係）
+https://laws.e-gov.go.jp/law/325M50080000017#325M50080000017-Sp-Pr_2
+
+
 
 https://en.wikipedia.org/wiki/Q_code
 
